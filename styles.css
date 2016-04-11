@@ -4,6 +4,7 @@ body {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  -webkit-font-smoothing: antialiased;
 }
 
 header {
@@ -35,6 +36,12 @@ h1 {
   text-shadow: #000 0px 0px 6px;
 }
 
+h2 {
+  text-align: center;
+  color: #EC7373;
+  font-weight: normal;
+  margin-top: 40px;
+}
 
 form {
   margin: 60px 0;
