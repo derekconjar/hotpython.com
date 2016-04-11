@@ -54,7 +54,8 @@ label {
 
 input[type="email"] {
   max-width: 500px;
-  padding: 24px;
+  padding: 0 24px;
+  height: 60px;
   font-size: 20px;
   margin: 30px auto;
   background: rgba(0, 0, 0, 0);
